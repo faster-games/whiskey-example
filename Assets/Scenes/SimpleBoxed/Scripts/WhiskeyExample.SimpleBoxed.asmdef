@@ -1,0 +1,16 @@
+{
+    "name": "WhiskeyExample.SimpleBoxed",
+    "rootNamespace": "",
+    "references": [
+        "GUID:99c8596177c196d4198e8bce05d63158"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
